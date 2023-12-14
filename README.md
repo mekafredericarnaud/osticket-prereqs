@@ -60,7 +60,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/5tJDdHZ.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-NOTE Make sure all Common HTTP Features are checked.
+NOTE: Make sure all Common HTTP Features are checked.
 </p>
 To make sure the IIS is installed / enabled go to a browser of your choice and search for 127.0.0.1 It should look something like this.
 <p>
