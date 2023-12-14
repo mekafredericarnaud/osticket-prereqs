@@ -39,13 +39,17 @@ Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs by going to https
 <p>
 <img src="https://i.imgur.com/dyeqebs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+Once created use the public ip address of the Virtual Machine to connect through the remote desktop connection app.
 
 <p>
-<img src="https://i.imgur.com/XcHY4Kh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YGmjsM8.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
+
+On your Virtual Machine go to the Control Panel, open Programs and select Turn Windows features on and off.
+
+<p>
+<img src="https://i.imgur.com/XcHY4Kh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
