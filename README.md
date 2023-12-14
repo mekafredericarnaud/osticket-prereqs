@@ -34,6 +34,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs by going to https://portal.azure.com/
+
 <p>
 <img src="https://i.imgur.com/dyeqebs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
