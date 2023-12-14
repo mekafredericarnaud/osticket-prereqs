@@ -34,38 +34,37 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs by going to https://portal.azure.com/
-
+1.) Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs by going to https://portal.azure.com/
 <p>
 <img src="https://i.imgur.com/dyeqebs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-Once created use the public ip address of the Virtual Machine to connect through the remote desktop connection app.
-
+2.) Once created use the public ip address of the Virtual Machine to connect through the remote desktop connection app.
 <p>
 <img src="https://i.imgur.com/YGmjsM8.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </p>
 
-On your Virtual Machine go to the Control Panel, open Programs and select Turn Windows features on and off.
-
+3.) On your Virtual Machine go to the Control Panel, open Programs and select Turn Windows features on and off.
 <p>
 <img src="https://i.imgur.com/XcHY4Kh.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+4.) Install / enable IIS in Windows with CGI, Common HTTP Features and IIS Management Console.</p>
+    - World Wide Web Services > Application Development Features > [x] CGI [X] Common HTTP Features. 
 <p>
-<img src="https://i.imgur.com/4RvUDIe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4RvUDIe.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+    - Internet Information Services > Web Management Tools > [x] IIS Management Console 
 <p>
-<img src="https://i.imgur.com/TAHSEaa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5tJDdHZ.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+NOTE Make sure all Common HTTP Features are checked.
+</p>
+To make sure the IIS is installed / enabled go to a browser of your choice and search for 127.0.0.1 It should look something like this.
+<p>
+<img src="https://i.imgur.com/TAHSEaa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
