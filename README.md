@@ -118,7 +118,9 @@ Execute the process on the following page.
     - Rename "upload folder" to "osTicket".</p>
       Restart IIS again.
 </p>
-14.) On IIS go to vm-osticket -> sites -> Default Web Sites -> osTicket (On the right) then click on “Browse *:80”.
+14.) Open osticket installer
+</p>
+On IIS go to vm-osticket -> sites -> Default Web Sites -> osTicket (On the right) then click on “Browse *:80”.
 </p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
