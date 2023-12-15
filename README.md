@@ -67,7 +67,11 @@ To make sure the IIS is installed / enabled go to a browser of your choice and s
 <img src="https://i.imgur.com/TAHSEaa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+5.) From the Installation Files:</p>
+    - Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)</p>
+    - Download and install the Rewrite Module (rewrite_amd64_en-US.msi)</p>
+    - Create the directory C:\PHP</p>
+    - Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
 </p>
 <br />
 
