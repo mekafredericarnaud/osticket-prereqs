@@ -81,19 +81,17 @@ To make sure the IIS is installed / enabled go to a browser of your choice and s
 - Typical Setup ->
 - Launch Configuration Wizard (after install) ->
 - Standard Configuration ->
-<p>
+</p>
 Make the new root password: Password1
-<img src="https://i.imgur.com/PqcKcXV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>    
+<img src="https://i.imgur.com/PqcKcXV.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
-Next and execute.
+Execute the process on the following page.
 <p>
-<img src="https://i.imgur.com/gcnbdoM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gcnbdoM.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+11.) Now that we have all the files downloaded and installed, we will search for IIS in the windows search bar and Open IIS as an administrator.
 <p>
 <img src="https://i.imgur.com/6Wnc0g3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
