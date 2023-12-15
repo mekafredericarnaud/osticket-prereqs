@@ -67,13 +67,25 @@ To make sure the IIS is installed / enabled go to a browser of your choice and s
 <img src="https://i.imgur.com/TAHSEaa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-5.) From the Installation Files:</p>
-             - Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)</p>
-             - Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+5.) From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).</p>
+
+6.) From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)</p>
+
+7.) Create a folder in the C drive called PHP.</p>
+
+8.) From the Installation Files, download PHP 7.3.8 (php-7.3.88-nts-Win32-VC15-x866.zip) and unzip the contents into C:\PHP
 <p>
+9.) From the Installation files, download and install the VC_redist.x86.exe.</p>
+
+10.) From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi):</p>
+- Typical Setup ->
+- Launch Configuration Wizard (after install) ->
+- Standard Configuration ->
+<p>
+Make the new root password: Password1
 <img src="https://i.imgur.com/3h3fUGK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-             Create the directory C:\PHP</p>
+             Create a folder in the C drive named PHPdirectory C:\PHP</p>
              - Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
 </p>
 <br />
