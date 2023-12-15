@@ -101,12 +101,11 @@ Execute the process on the following page.
 <img src="https://i.imgur.com/2qLhS5m.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Register new PHP version.
+- Register new PHP version.
 </p>
 <img src="https://i.imgur.com/78PN35f.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Provide a path to the php executable file (php-cgi.exe)). Go to C Drive -> PHP -> click on php-cgi file.
 </p>
 <br />
 
