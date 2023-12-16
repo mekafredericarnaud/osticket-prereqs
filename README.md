@@ -187,7 +187,25 @@ Once done we will continue to setup osTicket in the browser by clicking to ¨Con
 <img src="https://i.imgur.com/AS3EgcZ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+16.) From the Installation Files, download and install HeidiSQL.
+</p>
+- Open Heidi SQL
+<p>
+<img src="https://i.imgur.com/eqJoqj8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+- Create a new session, root/Password1
+<p>
+<img src="https://i.imgur.com/aPz1uAL.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/ORwQpl9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+- Once we are connected to the session, we will now create a database called “osTicket”
+<p>
+<img src="https://i.imgur.com/ORwQpl9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+Create a database called “osTicket”
+
 </p>
 <br />
 
