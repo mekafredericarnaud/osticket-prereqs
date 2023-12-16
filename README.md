@@ -200,9 +200,15 @@ Once done we will continue to setup osTicket in the browser by clicking to ¨Con
 <p>
 <img src="https://i.imgur.com/ORwQpl9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
-- Once we are connected to the session, we will now create a database called “osTicket”
+- Once we are connected to the session, we will now create a new database called “osTicket”
 <p>
-<img src="https://i.imgur.com/ORwQpl9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2ZY10hE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/bKPXTfg.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://i.imgur.com/WxBzMiw.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Create a database called “osTicket”
 
