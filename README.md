@@ -122,7 +122,7 @@ Execute the process on the following page.
 </p>
 On IIS go to vm-osticket -> sites -> Default Web Sites -> osTicket - then on the right, click on “Browse *:80”.
 </p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9H9umEl.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Some extensions are not enabled on the osTicket browser.
